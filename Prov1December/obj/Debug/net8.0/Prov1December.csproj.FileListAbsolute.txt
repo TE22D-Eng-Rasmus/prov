@@ -1,0 +1,15 @@
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\bin\Debug\net8.0\Prov1December.exe
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\bin\Debug\net8.0\Prov1December.deps.json
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\bin\Debug\net8.0\Prov1December.runtimeconfig.json
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\bin\Debug\net8.0\Prov1December.dll
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\bin\Debug\net8.0\Prov1December.pdb
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\Prov1December.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\Prov1December.AssemblyInfoInputs.cache
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\Prov1December.AssemblyInfo.cs
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\Prov1December.csproj.CoreCompileInputs.cache
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\Prov1December.sourcelink.json
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\Prov1December.dll
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\refint\Prov1December.dll
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\Prov1December.pdb
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\Prov1December.genruntimeconfig.cache
+c:\Users\rasmus.eng\programering\prog2\prov\Prov1December\obj\Debug\net8.0\ref\Prov1December.dll
