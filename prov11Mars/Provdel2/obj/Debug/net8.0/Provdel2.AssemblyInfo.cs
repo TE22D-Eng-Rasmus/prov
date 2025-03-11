@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Provdel2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daf3c4f2007616d903f3c1d3f50ba3b31be68d94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15211fb21dc2f72499756632743a3aa7e7d869d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Provdel2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Provdel2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
