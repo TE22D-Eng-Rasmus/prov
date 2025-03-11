@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov1December\\Prov1December.csproj": {}
+    "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\Provdel2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov1December\\Prov1December.csproj": {
+    "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\Provdel2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov1December\\Prov1December.csproj",
-        "projectName": "Prov1December",
-        "projectPath": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov1December\\Prov1December.csproj",
+        "projectUniqueName": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\Provdel2.csproj",
+        "projectName": "Provdel2",
+        "projectPath": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\Provdel2.csproj",
         "packagesPath": "C:\\Users\\rasmus.eng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov1December\\obj\\",
+        "outputPath": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
