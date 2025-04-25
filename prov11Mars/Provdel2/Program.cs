@@ -1,8 +1,5 @@
-﻿MagnetoC m1 = new MagnetoC();
-DarthVaderC d1 = new DarthVaderC();
+﻿
 
-m1.Magneto();
-d1.DarthVader();
 
 
 

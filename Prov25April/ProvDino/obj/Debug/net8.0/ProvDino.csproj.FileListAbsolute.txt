@@ -1,0 +1,15 @@
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ProvDino.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ProvDino.AssemblyInfoInputs.cache
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ProvDino.AssemblyInfo.cs
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ProvDino.csproj.CoreCompileInputs.cache
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ProvDino.sourcelink.json
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\bin\Debug\net8.0\ProvDino.exe
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\bin\Debug\net8.0\ProvDino.deps.json
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\bin\Debug\net8.0\ProvDino.runtimeconfig.json
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\bin\Debug\net8.0\ProvDino.dll
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\bin\Debug\net8.0\ProvDino.pdb
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ProvDino.dll
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\refint\ProvDino.dll
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ProvDino.pdb
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ProvDino.genruntimeconfig.cache
+c:\Users\rasmus.eng\programering\prog2\prov\Prov25April\ProvDino\obj\Debug\net8.0\ref\ProvDino.dll

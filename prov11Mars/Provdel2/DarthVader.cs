@@ -2,7 +2,7 @@ using System.Security.Cryptography.X509Certificates;
 
 class DarthVaderC: Villian{
 
-    public void DarthVader(){
+    public DarthVaderC(){
 
     Name = NameC.Names[^1];
 

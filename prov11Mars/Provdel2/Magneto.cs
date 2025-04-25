@@ -1,6 +1,6 @@
 class MagnetoC: Villian{
 
-     public void Magneto(){
+     public MagnetoC(){
 
     Name = NameC.Names[^2];
 

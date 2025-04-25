@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\Provdel2.csproj": {}
+    "c:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov25April\\ProvDino\\ProvDino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\Provdel2.csproj": {
+    "c:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov25April\\ProvDino\\ProvDino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\Provdel2.csproj",
-        "projectName": "Provdel2",
-        "projectPath": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\Provdel2.csproj",
+        "projectUniqueName": "c:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov25April\\ProvDino\\ProvDino.csproj",
+        "projectName": "ProvDino",
+        "projectPath": "c:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov25April\\ProvDino\\ProvDino.csproj",
         "packagesPath": "C:\\Users\\rasmus.eng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rasmus.eng\\programering\\prog2\\prov\\prov11Mars\\Provdel2\\obj\\",
+        "outputPath": "c:\\Users\\rasmus.eng\\programering\\prog2\\prov\\Prov25April\\ProvDino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rasmus.eng\\AppData\\Roaming\\NuGet\\NuGet.Config"
