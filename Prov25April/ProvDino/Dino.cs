@@ -1,29 +1,32 @@
 
 using System.IO.Compression;
 
-public class Dino{
+public class Dino
+{
 
-static public string DinoName;
+    public string DinoName;
 
-public string DinoDescription;
+    public string DinoDescription;
 
-static protected int DinoWeight;
+    public int DinoWeight;
 
-public int Grade;
+    public int Grade;
 
-public string ReviewText;
-
-
-public void SetGrade(){
+    public string ReviewText;
 
 
-}
-
-public string GetReview ="";
-public void WriteText(){
+    public void SetGrade()
+    {
 
 
-}
+    }
+
+    public string GetReview = "";
+    public virtual void WriteText()
+    {
+
+
+    }
 
 }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProvDino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa203ed68c337ebf4f5bd9f428ca2a2b91310ab9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfefb77337c1b07792db0f195a50e05558da2a2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProvDino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProvDino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
